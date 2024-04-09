@@ -11,7 +11,8 @@ This repository includes the files and instructions for hosting "The Coffee Corn
 - Website URL: [http://thecoffeecorner.s3-website.eu-west-2.amazonaws.com](http://thecoffeecorner.s3-website.eu-west-2.amazonaws.com)
 
 ### Sample Files
-You can find the sample files for the website [here](https://github.com/Mayowa2020/the-coffee-corner).
+You can find the sample files for the website [here]https://github.com/Mayowa2020/S3-Static-Website-Hosting/blob/main/coffee.jpg
+https://github.com/Mayowa2020/S3-Static-Website-Hosting/blob/main/index.html.
 
 **Objective:**
 1. Create an S3 Bucket: Learn to create an S3 bucket in the AWS Management Console.
