@@ -32,7 +32,7 @@ Follow these steps to set up and host "The Coffee Corner" website using Amazon S
 ### Step 1: Create a Bucket
 
 1. Sign in to the AWS Management Console.
-2. Open the Amazon S3 console [here](https://s3.console.aws.amazon.com/s3/home).
+2. Open the Amazon S3 console.
 3. Click “Create bucket”.
 4. Enter Bucket name: thecoffeecorner
 5. Choose the Region where you want to create the bucket (geographically close to you for lower latency).
