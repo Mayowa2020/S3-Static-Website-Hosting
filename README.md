@@ -65,15 +65,15 @@ Follow these steps to set up and host "The Coffee Corner" website using Amazon S
 
    ```json
    {
-    "Version": "2012-10-17",
-    "Statement": [
-     {
-      "Effect": "Allow",
-      "Principal": "*",
-      "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::thecoffeecorner/*"
-     }
-    ]
+   	"Version": "2012-10-17",
+   	"Statement": [
+   		{
+   			"Effect": "Allow",
+   			"Principal": "*",
+   			"Action": "s3:GetObject",
+   			"Resource": "arn:aws:s3:::thecoffeecorner/*"
+   		}
+   	]
    }
    ```
 
